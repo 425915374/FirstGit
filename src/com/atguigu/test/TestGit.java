@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		System.out.println("我的第一个Git");
 		aaaa
-	}
+                让我改点东西可以down			
+}
 
 }
